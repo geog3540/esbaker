@@ -1,2 +1,2 @@
 # Eric Baker's Geovisualization Portfolio
-geog3540/esbaker - Eric Baker
+This Portfolio includes the assignment and the link to the final project for GEOG 3540 - Introduction to Gegraphic Visualization
